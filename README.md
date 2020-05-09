@@ -2,27 +2,27 @@
 Desafio proposto de Análise de Dados de farmácias da rede Bemol
 
 
-### [Aula 01](link)
+### [Aula 01](Aula_01)
 
-* link da videoaula
+* [Videoaula_01](https://www.youtube.com/watch?v=V_HMVVmmnVc)
 * objetivo
 
 
-### [Aula 02](link)
+### [Aula 02](Aula_02)
 
-* link da videoaula
+* [Videoaula_01](https://www.youtube.com/watch?v=pSgZNmLzZOE)
 * objetivo
 
-### [Aula 03](link)
+### [Aula 03](Aula_03)
 
-* link da videoaula
+* [Videoaula_01](https://www.youtube.com/watch?v=Sk0VbxF-lGw)
 * objetivo
 
-### [Aula 04](link)
+### [Aula 04](Aula_04)
 
-* link da videoaula
+* [Videoaula_01](https://www.youtube.com/watch?v=jyetwh4frjw)
 * objetivo
 
-### [Minha solução do desafio proposto](link)
+### [Minha solução do desafio proposto](Desafio)
 
 * objetivo
