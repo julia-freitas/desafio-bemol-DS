@@ -2,6 +2,35 @@
 
 ----- descrever o problema proposto --------
 
+## Etapas da Análise
+
+#### Pré-processamento dos dados (Data Wrangling):
+
+* Leitura dos arquivos de entrada
+
+* Tratamento de Dados
+
+	* Renomeando Colunas
+
+	* Deletar Colunas (?)
+
+		Ao final do pré-processamento será preciso gerar um novo arquivo com as nossas informações padronizadas e eliminar colunas desnecessárias para a análise
+
+	* Verificar os tipos de dados das colunas (em busca de dados categóricos)
+
+	* Alterar os tipos categóricos para numéricos
+
+	* Agrupar de dados (os dados de mesmo código para uma mesma linha)
+
+	* Correlação de Tabelas (Concatenação dos conjuntos de dados de entrada em 1 único dataset)
+
+#### Análise dos Dados
+
+* Regras de Negócio
+
+* Exportando Dados
+
+
 
 ## Nossos Dados (lista de arquivos de entrada):
 
@@ -58,27 +87,4 @@
 </tbody>
 </table>
 
-# Pré-processamento dos dados (Data Wrangling):
-
-* Leitura dos arquivos de entrada
-
-* Tratamento de Dados
-
-	* Renomeando Colunas
-
-	* Deletar Colunas (?)
-
-		Ao final será preciso gerar um novo arquivo com as nossas informações padronizadas e eliminar colunas desnecessárias para a análise
-
-* Verificar os tipos de dados das colunas (em busca de dados categóricos)
-
-* Alterar os tipos categóricos para numéricos
-
-* Agrupar de dados (os dados de mesmo código para uma mesma linha)
-
-* Correlação de Tabelas (Concatenação dos conjuntos de dados de entrada em 1 único dataset)
-
-* Regras de Negócio
-
-* Exportando Dados
 
